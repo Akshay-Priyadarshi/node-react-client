@@ -179,7 +179,7 @@ const HomePage = () => {
                     </UnorderedList>
                 </Container>
                 <Container centerContent>
-                    <Link href="">
+                    <Link href="https://github.com/Akshay-Priyadarshi/node-react-client">
                         <AiFillGithub
                             style={{
                                 height: "50px",
